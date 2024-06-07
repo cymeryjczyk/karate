@@ -1,4 +1,4 @@
-# 55263_52663_51455_54356_54354_57727
+# turniej_karate
 Aplikacyjny projekt zespołowy L2
 
 
